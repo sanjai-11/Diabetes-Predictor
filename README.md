@@ -35,5 +35,5 @@ To use the Diabetes Predictor, follow these steps:
 
 3. **Run the Predictor:**
    ```bash
-   python main.py
+   python diabetes_predictor.py
    ```
